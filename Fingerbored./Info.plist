@@ -6,20 +6,8 @@
 	<string>Track your hands for Fingerbored.</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
-			<key>UISceneSessionRoleImmersiveSpaceApplication</key>
-			<array>
-				<dict>
-					<key>UISceneClassName</key>
-					<string></string>
-					<key>UISceneConfigurationName</key>
-					<string></string>
-					<key>UISceneDelegateClassName</key>
-					<string></string>
-					<key>UISceneStoryboardFile</key>
-					<string></string>
-				</dict>
-			</array>
-		</dict>
+		<key>UISceneSessionRoleImmersiveSpaceApplication</key>
+		<dict/>
 	</dict>
 </dict>
 </plist>
